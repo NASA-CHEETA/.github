@@ -1,5 +1,8 @@
 # High-Fidelity Aerosstructural Analysis and Optimization Framework for NASA ULI Program 
 
+![Local Image](./CHEETA.png)
+
+
 ## Overview
 
 This repository contains an Aeroelasticity Framework developed for NASA, utilizing the SU2 (Stanford University Unstructured) computational fluid dynamics (CFD) solver and the CalculiX finite element analysis (FEA) software. Aeroelasticity is the study of the interaction between aerodynamics, structural dynamics, and control systems, and is crucial in designing safe and efficient aerospace vehicles. This framework provides a powerful toolset for simulating and analyzing aeroelastic phenomena in various aerospace applications.
