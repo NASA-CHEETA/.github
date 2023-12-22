@@ -7,9 +7,10 @@
 
 This repository contains an Aeroelasticity Framework developed for NASA, utilizing the SU2 (Stanford University Unstructured) computational fluid dynamics (CFD) solver and the CalculiX finite element analysis (FEA) software. Aeroelasticity is the study of the interaction between aerodynamics, structural dynamics, and control systems, and is crucial in designing safe and efficient aerospace vehicles. This framework provides a powerful toolset for simulating and analyzing aeroelastic phenomena in various aerospace applications.
 
-## Features
+## Member Repositories
 
-- **Integration of SU2 and CalculiX**: This framework seamlessly integrates the SU2 CFD solver with the CalculiX FEA software, enabling the simulation of aeroelastic phenomena by coupling aerodynamic and structural analyses.
+- **SU2 Columbia: add desc
+- **CalculiX: add desc
 
 - **Aeroelastic Simulations**: Perform aeroelastic simulations, including flutter analysis, static aeroelasticity, and dynamic aeroelasticity.
 
