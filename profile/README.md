@@ -1,6 +1,6 @@
 # High-Fidelity Aerosstructural Analysis and Optimization Framework for NASA ULI Program 
 
-![Local Image](.github/profile/CHEETA.png)
+![Local Image](.github/CHEETA.png)
 
 
 ## Overview
