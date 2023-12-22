@@ -1,4 +1,4 @@
-# Aeroelasticity Framework for NASA using SU2 and CalculiX
+# High-Fidelity Aerosstructural Analysis and Optimization Framework for NASA ULI Program 
 
 ## Overview
 
