@@ -9,7 +9,7 @@ This repository contains an Aeroelasticity Framework developed for NASA, utilizi
 
 ## Member Repositories
 
-- **SU2 Columbia: add desc
+- **SU2 Columbia: A fork of SU2 Blackbird, extended to support large-scale coupled aeroelastic topology optimization. Shape optimization suite extended using FADO with IPOPT as an additional optimizer.
   ![Local Image](profile/ForGithub.png)
 - **CalculiX: add desc
 
