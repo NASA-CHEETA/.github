@@ -10,7 +10,7 @@ This repository contains an Aeroelasticity Framework developed for NASA, utilizi
 ## Member Repositories
 
 - **SU2 Columbia: add desc
-  ![Local Image](profile/ForGithub_trans.pdf)
+  ![Local Image](profile/ForGithub_trans.png)
 - **CalculiX: add desc
 
 - **Aeroelastic Simulations**: Perform aeroelastic simulations, including flutter analysis, static aeroelasticity, and dynamic aeroelasticity.
